@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @angeltrosas
-- 👀 I’m interested in mobile progamming
-- 🌱 I’m currently learning mobile programming atleast?
-- 💞️ I’m looking to collaborate on mobile programming also
+- 👀 I’m interested in web development using csharp
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me @angeltrosas/fb 
 
 <!---
